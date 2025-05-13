@@ -29,3 +29,20 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca5Fernandes&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=Luca5Fernandes&style=for-the-badge&color=8a2be2)
+
+### Badges
+
+![wakatime](https://wakatime.com/badge/user/edab95c1-75d2-40e8-b459-02bfa3471095.svg?style=for-the-badge&color=8a2be2)
+![](https://komarev.com/ghpvc/?username=Lucas5Fernandes&style=for-the-badge&color=8a2be2)
+
+### My GitHub Stats
+
+<div style="display: flex;align-items: center;justify-content: center;">
+
+<img width="49.2%" src="https://nirzak-streak-stats.vercel.app/?user=Luca5Fernandes&theme=midnight-purple&hide_border=true&card_height=258" alt="Luca5Fernandes's GitHub streak" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Luca5Fernandes&show_icons=true&theme=midnight-purple&rank_icon=github&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&hide_border=true" alt="Luca5Fernandes's GitHub stats" />
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8a2be2&height=120&section=footer"/>
