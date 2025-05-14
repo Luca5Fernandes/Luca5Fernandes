@@ -22,8 +22,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="Cucumber" src="https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white" /> 
   <img align="center" alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-  
-  
+    
   
 </div><br/>
     
@@ -38,8 +37,6 @@
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=Luca5Fernandes&show_icons=true&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=Luca5Fernandes&style=for-the-badge&color=8a2be2)
-
-### Badges
 
 ### My GitHub Stats
 
