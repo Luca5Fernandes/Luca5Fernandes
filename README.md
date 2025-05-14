@@ -41,8 +41,6 @@
 
 ### Badges
 
-![wakatime](https://wakatime.com/badge/user/edab95c1-75d2-40e8-b459-02bfa3471095.svg?style=for-the-badge&color=8a2be2)
-
 ### My GitHub Stats
 
 <div style="display: flex;align-items: center;justify-content: center;">
